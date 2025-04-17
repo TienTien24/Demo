@@ -1,0 +1,9 @@
+.search-bar:hover {
+    transform: scale(1.02);
+    transition: transform 0.2s ease-in-out;
+  }
+
+.search-results:hover {
+    background-color: #B2EBF2;
+    transition: background-color 0.2s ease-in-out;
+}
